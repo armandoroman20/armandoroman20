@@ -11,6 +11,7 @@ I'm always trying to learn and develop my skills as a deeloper, and am constantl
 - 📫 How to reach me: 
 
   LinkedIn: https://www.linkedin.com/in/armando-roman-jr/
+  
   Email: armando.roman.jr20@gmail.com
   
 
