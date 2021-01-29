@@ -4,11 +4,15 @@ I am a full stack developer, that focuses on front end development. I am experie
 
 I'm always trying to learn and develop my skills as a developer, and am constantly trying to learn something new!
 
-- 🔭 I’m currently working on a website, Gacho Style Magazine, for a client who is an artist. This is a full-stack web application that utilzes Spring Boot, Thymeleaf, HTML, CSS, and a MYSQL database. 
+## - 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning Angular 2.
+  Gacho Style Magazine, a website for a client who is an artist. This is a full-stack web application that utilzes Spring Boot, Thymeleaf, HTML, CSS, and a MYSQL     database. 
 
-- 📫 How to reach me: 
+## - 👨‍💻 I’m currently learning 
+
+  Angular 2.
+
+## - 📫 How to reach me: 
 
   LinkedIn: https://www.linkedin.com/in/armando-roman-jr/
   
