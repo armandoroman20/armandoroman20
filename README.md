@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Armando Roman👋
 
-<!--
-**armandoroman20/armandoroman20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full stack developer, that focuses on front end development. I am experienced with Java, Javascript, HTML, CSS, MySQL, and framworks such as Bootstrap, JQuery, and SpringBoot.
 
-Here are some ideas to get you started:
+I'm always trying to learn and develop my skills as a deeloper, and am constantly trying to learn something new!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a website, Gacho Style Magazine, for a client who is an artist. This is a full-stack web application that utilzes Spring Boot, Thymeleaf, HTML, CSS, and a MYSQL database. 
+
+- 🌱 I’m currently learning Angular 2.
+
+- 📫 How to reach me: 
+
+  LinkedIn: https://www.linkedin.com/in/armando-roman-jr/
+  Email: armando.roman.jr20@gmail.com
+  
+
+
