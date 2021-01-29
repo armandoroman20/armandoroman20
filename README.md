@@ -1,6 +1,6 @@
 ### Hi there, I'm Armando Roman👋
 
-I am a full stack developer, that focuses on front end development. I am experienced with Java, Javascript, HTML, CSS, MySQL, and framworks such as Bootstrap, JQuery, and SpringBoot.
+I am a full stack developer, that focuses on front end development. I am experienced with Java, Javascript, HTML, CSS, MySQL, and frameworks such as Bootstrap, JQuery, and SpringBoot.
 
 I'm always trying to learn and develop my skills as a deeloper, and am constantly trying to learn something new!
 
